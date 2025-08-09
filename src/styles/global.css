@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+AU+SA:wght@100..400&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-figtree: "Figtree", sans-serif;
+    --font-funnel: "Funnel Sans", sans-serif; 
+    --font-headings: "Playwrite AU SA", sans-serif;
+    --color-blush-pink: oklch(93.168% 0.03613 4.879 / 0.4);
+    --color-deep-blue: oklch(42% 0.072 232);
+}
